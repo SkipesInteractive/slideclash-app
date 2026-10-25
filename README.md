@@ -1,1 +1,1 @@
-SlideClash - a sliding puzzle game with versus mode
+Look for "Releases" on this page once you found that click the link under "Releases"
